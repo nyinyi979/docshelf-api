@@ -1,0 +1,11 @@
+vercel
+node_modules
+.env
+/images
+.vercel
+build
+tmp
+.DS_Store
+
+# Local AI-agent repository guide
+/AGENTS.md
